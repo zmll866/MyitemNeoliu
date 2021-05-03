@@ -1,4 +1,4 @@
-console.log('test');
+console.log('嘿嘿嘿');
 function sum(a, b) {
     return a + b
 }
